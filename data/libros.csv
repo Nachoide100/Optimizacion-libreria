@@ -1,0 +1,101 @@
+book_id,titulo,categoria,costo,precio,tipo_abc,demanda_promedio
+1,Sharable Bifurcated Algorithm,Ficción,11.97,19.95,A,14.0
+2,User-Centric Even-Keeled Encryption,Negocios,14.69,24.48,A,10.0
+3,Face-To-Face Client-Driven Support,Ciencia de Datos,9.88,16.47,A,11.0
+4,Customer-Focused Systematic Support,Negocios,14.21,23.69,A,7.0
+5,Quality-Focused Background Parallelism,Infantil,13.21,22.02,A,5.0
+6,Optimized 5Thgeneration Algorithm,Ciencia de Datos,13.63,22.71,A,13.0
+7,Cross-Group Didactic Emulation,Biografía,12.56,20.94,A,14.0
+8,Profit-Focused Real-Time Algorithm,Negocios,12.83,21.38,A,10.0
+9,Realigned Dedicated Structure,Infantil,10.15,16.91,A,10.0
+10,Streamlined Tangible Moratorium,Infantil,12.95,21.58,A,13.0
+11,Operative Directional Knowledge User,Negocios,11.17,18.61,A,13.0
+12,Reverse-Engineered Even-Keeled Workforce,Negocios,9.28,15.47,A,7.0
+13,Adaptive Well-Modulated Workforce,Ficción,10.93,18.22,A,7.0
+14,Diverse Tangible Interface,Biografía,10.64,17.73,A,7.0
+15,Mandatory Even-Keeled Collaboration,Ciencia de Datos,13.43,22.38,A,5.0
+16,Extended Well-Modulated Graphical User Interface,Negocios,11.62,19.36,A,8.0
+17,Customer-Focused Background Implementation,Infantil,9.61,16.01,A,12.0
+18,Cross-Platform Heuristic Hardware,Ciencia de Datos,13.08,21.8,A,11.0
+19,Robust Empowering Workforce,Infantil,10.13,16.89,A,6.0
+20,Balanced Upward-Trending Knowledgebase,Negocios,13.97,23.29,A,6.0
+21,Public-Key Bottom-Line Implementation,Negocios,10.87,18.12,B,1.0
+22,Configurable Neutral Frame,Negocios,6.17,10.29,B,3.0
+23,Self-Enabling Regional Hierarchy,Negocios,9.87,16.45,B,2.0
+24,Re-Engineered Content-Based Strategy,Ciencia de Datos,6.96,11.6,B,2.0
+25,Cloned 6Thgeneration Protocol,Infantil,9.43,15.72,B,1.0
+26,Focused Zero Administration Frame,Negocios,9.85,16.41,B,2.0
+27,Configurable Discrete Attitude,Biografía,8.3,13.84,B,3.0
+28,Multi-Tiered Even-Keeled Knowledgebase,Negocios,10.57,17.61,B,4.0
+29,Sharable High-Level Complexity,Biografía,6.08,10.14,B,2.0
+30,Multi-Layered Heuristic Database,Biografía,10.93,18.22,B,4.0
+31,Synchronized Encompassing Standardization,Biografía,11.51,19.19,B,1.0
+32,Synergized Secondary Archive,Biografía,11.91,19.85,B,2.0
+33,Robust Scalable Concept,Biografía,10.39,17.31,B,3.0
+34,Public-Key Upward-Trending Encryption,Negocios,7.31,12.19,B,3.0
+35,Diverse Maximized Implementation,Ficción,6.63,11.05,B,4.0
+36,Future-Proofed Scalable Solution,Biografía,9.68,16.13,B,1.0
+37,Realigned Directional Software,Biografía,11.99,19.99,B,4.0
+38,Inverse Zero Administration Time-Frame,Ficción,8.74,14.57,B,1.0
+39,Centralized Discrete Alliance,Infantil,11.74,19.56,B,1.0
+40,Intuitive Impactful Flexibility,Infantil,10.31,17.18,B,4.0
+41,Cloned Didactic Open System,Infantil,10.17,16.95,B,3.0
+42,Universal Foreground Data-Warehouse,Ficción,7.79,12.98,B,2.0
+43,Streamlined Modular Infrastructure,Negocios,7.16,11.93,B,4.0
+44,Stand-Alone Logistical Circuit,Ficción,9.92,16.53,B,2.0
+45,Fundamental Client-Driven Encryption,Ciencia de Datos,11.42,19.04,B,2.0
+46,User-Friendly Next Generation Monitoring,Infantil,6.76,11.27,B,1.0
+47,Fundamental Value-Added Paradigm,Ficción,10.44,17.4,B,1.0
+48,Optimized Optimal Initiative,Biografía,11.14,18.56,B,1.0
+49,Multi-Lateral Directional Challenge,Ciencia de Datos,11.03,18.38,B,2.0
+50,Profound Modular Array,Infantil,7.25,12.09,B,3.0
+51,Versatile Actuating Budgetary Management,Ciencia de Datos,10.57,17.62,B,4.0
+52,Distributed Responsive Complexity,Ciencia de Datos,7.37,12.28,B,4.0
+53,Synergized Interactive Policy,Negocios,11.87,19.78,B,2.0
+54,Cloned Human-Resource Implementation,Ficción,10.97,18.28,B,2.0
+55,Right-Sized Maximized Moderator,Negocios,7.57,12.61,B,4.0
+56,Function-Based Neutral Access,Ficción,7.72,12.86,B,4.0
+57,Synergized Uniform Budgetary Management,Negocios,10.79,17.99,B,3.0
+58,Synergized National System Engine,Negocios,11.07,18.45,B,2.0
+59,Future-Proofed Zero Administration Project,Biografía,11.63,19.38,B,3.0
+60,Mandatory Bifurcated Frame,Infantil,10.91,18.18,B,2.0
+61,Optional Cohesive Knowledgebase,Biografía,7.6,12.66,B,4.0
+62,Adaptive Uniform Success,Ficción,6.57,10.95,B,1.0
+63,Fundamental Motivating Task-Force,Ficción,9.25,15.41,B,1.0
+64,Enhanced Motivating Benchmark,Ciencia de Datos,8.34,13.9,B,1.0
+65,Self-Enabling Exuding Productivity,Infantil,9.4,15.67,B,1.0
+66,Profit-Focused Real-Time Customer Loyalty,Infantil,11.13,18.55,B,1.0
+67,Distributed Holistic Task-Force,Infantil,10.76,17.93,B,2.0
+68,Diverse Needs-Based Time-Frame,Infantil,8.36,13.94,B,4.0
+69,Progressive 24Hour Policy,Negocios,11.18,18.64,B,4.0
+70,Inverse Mobile Adapter,Biografía,11.18,18.64,B,4.0
+71,Customizable High-Level Workforce,Infantil,8.96,14.93,B,3.0
+72,Integrated Disintermediate Approach,Ficción,8.65,14.42,B,3.0
+73,Front-Line Non-Volatile Artificial Intelligence,Ciencia de Datos,8.42,14.03,B,3.0
+74,Configurable Upward-Trending Matrix,Biografía,6.44,10.74,B,4.0
+75,Cloned Well-Modulated Monitoring,Ciencia de Datos,7.96,13.27,B,2.0
+76,Visionary Clear-Thinking Capacity,Negocios,9.34,15.57,B,4.0
+77,Switchable Methodical Neural-Net,Biografía,6.38,10.64,B,3.0
+78,Down-Sized Empowering Moderator,Ficción,7.12,11.86,B,3.0
+79,Robust Interactive Data-Warehouse,Negocios,11.52,19.2,B,2.0
+80,Quality-Focused Web-Enabled Superstructure,Negocios,7.84,13.06,B,2.0
+81,Team-Oriented Dedicated Structure,Negocios,6.44,10.74,C,0.07149740585187886
+82,Integrated Impactful Secured Line,Infantil,4.79,7.98,C,0.18696028275823917
+83,Streamlined Holistic Intranet,Ciencia de Datos,6.25,10.41,C,0.2422969342367609
+84,Programmable Local Capability,Ficción,4.42,7.37,C,0.08716217903170559
+85,Fully-Configurable Directional Architecture,Biografía,3.36,5.6,C,0.18209944624890884
+86,Mandatory 3Rdgeneration Parallelism,Infantil,7.06,11.76,C,0.45193261126814205
+87,Reactive Discrete Parallelism,Negocios,8.51,14.18,C,0.12145625653526132
+88,Face-To-Face 24Hour Archive,Biografía,3.55,5.92,C,0.09592850816243415
+89,Triple-Buffered Responsive Approach,Ficción,4.94,8.23,C,0.305115868356882
+90,Focused Asymmetric Alliance,Infantil,5.46,9.1,C,0.35796172006102117
+91,Managed Asynchronous Migration,Negocios,5.74,9.57,C,0.3640423047008754
+92,Front-Line Even-Keeled Secured Line,Biografía,5.66,9.43,C,0.49202898448651633
+93,Pre-Emptive Didactic Moratorium,Biografía,7.78,12.96,C,0.3489661125983347
+94,De-Engineered Uniform Orchestration,Negocios,6.4,10.67,C,0.37944806638478534
+95,Re-Engineered Methodical Encryption,Ficción,5.86,9.77,C,0.4142133752015041
+96,Phased Incremental Core,Ciencia de Datos,3.82,6.36,C,0.25946856220272985
+97,Cross-Platform Bandwidth-Monitored Protocol,Ciencia de Datos,6.38,10.63,C,0.4326032837350844
+98,Optional Heuristic Interface,Ficción,6.61,11.02,C,0.4081449996384541
+99,Open-Source Maximized Superstructure,Ficción,8.35,13.91,C,0.06781925975008973
+100,Business-Focused Systematic Projection,Biografía,4.54,7.56,C,0.2543738895810356
